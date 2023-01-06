@@ -5,10 +5,10 @@
 
 # How to run it ?
 
-1 - The program must be compiled with GCC first then executed
-2 - The console will then ask you for theses properties :
-    + (row) (col)
-    + (start_row) (start_col)
+1 - The program must be compiled with GCC first then executed\n
+2 - The console will then ask you for theses properties :\n
+    + (row) (col)\n
+    + (start_row) (start_col)\n
     + (end_row) (end_col)
     + (number of full cells)
       - (cell_row) (cell_col)
